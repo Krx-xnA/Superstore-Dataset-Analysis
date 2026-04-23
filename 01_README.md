@@ -1,5 +1,5 @@
 # SuperstoreDatasetAnalysis_queries
-Performed sales analysis using SQL on Superstore dataset from Kaggle utilizing window functions and aggregations.
+Performed sales analysis using SQL on the Superstore dataset from Kaggle, utilizing window functions and aggregations.
 
 🛠 Tools Used
 - MySQL
@@ -17,6 +17,6 @@ Performed sales analysis using SQL on Superstore dataset from Kaggle utilizing w
 - Window Functions (RANK)
 
 📈 Key Insights
-- West region generates highest sales
-- Technology category is most profitable
+- The West region generates the highest sales
+- The technology category is the most profitable
 - Some products generate losses
