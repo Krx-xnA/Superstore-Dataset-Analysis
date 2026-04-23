@@ -1,6 +1,9 @@
 # SuperstoreDatasetAnalysis_queries
 Performed sales analysis using SQL on the Superstore dataset from Kaggle, utilizing window functions and aggregations.
 
+ 🎯 Objective
+The goal of this project is to analyze retail sales data to identify key trends in customer behavior, product performance, and regional sales.
+
 🛠 Tools Used
 - MySQL
 - SQL
